@@ -38,7 +38,7 @@ pdf-form-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vishnuuuuuu/pdf-form.git
+git clone https://github.com/Vishnuuuuuu/pdf-form-1.git
 cd pdf-form-system
 ```
 
